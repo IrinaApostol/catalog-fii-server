@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/catalog-fii-server.iml" filepath="$PROJECT_DIR$/.idea/catalog-fii-server.iml" />
+      <module fileurl="file://$USER_HOME$/s6/.idea/s6.iml" filepath="$USER_HOME$/s6/.idea/s6.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/untitled/.idea/untitled.iml" filepath="$USER_HOME$/PycharmProjects/untitled/.idea/untitled.iml" />
     </modules>
   </component>
 </project>
